@@ -225,4 +225,4 @@ Opens at `http://localhost:8501` - shows patient demographics, encounter status,
 - [FHIR R4 Specification](https://hl7.org/fhir/R4/)
 - [LOINC - Vital Signs Panel](https://loinc.org/85353-1/)
 - [IHE Integration Profiles](https://www.ihe.net/resources/profiles/)
-- [Mirth Connect Documentation](https://docs.nextgen.com/bundle/Mirth_Connect_UG_42/page/connect/connect/topics/c_Introduction_mirth_connect_ug.html)
+- [Mirth Connect Documentation](https://docs.nextgen.com/en-US)
